@@ -1,9 +1,3 @@
-# LinearRegression
- Python function calculate the linear regression of a points list
-
-This function takes the lists of x's and y's and calculates slope and zero cross
-``` python
-
 def LinearRegression(x, y):
     """
     This function calculates the linear regression of input data
@@ -32,8 +26,3 @@ def LinearRegression(x, y):
     
     return m, n
 
-
-
-```
-
-![LinearRegression Line](/img/img.png)
