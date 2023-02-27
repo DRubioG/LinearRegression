@@ -32,8 +32,8 @@ def LinearRegression(x, y):
     
     return m, n
 
-
-
 ```
+
+## result
 
 ![LinearRegression Line](/img/img.png)
